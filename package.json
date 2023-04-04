@@ -16,6 +16,7 @@
     "@nuxt/eslint-config": "^0.1.1",
     "eslint": "^8.37.0",
     "husky": "^8.0.3",
+    "lint-staged": "^13.2.0",
     "nuxt": "^3.3.3"
   }
 }
