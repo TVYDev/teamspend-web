@@ -11,6 +11,8 @@
     "prepare": "husky install"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.5.1",
+    "@commitlint/config-conventional": "^17.4.4",
     "@nuxt/eslint-config": "^0.1.1",
     "eslint": "^8.37.0",
     "husky": "^8.0.3",
